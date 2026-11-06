@@ -10,7 +10,7 @@ This project uses data science and machine learning concepts to estimate insuran
 
 ## Tech Stack
 * **Frontend:** HTML, SCSS, JavaScript
-* **Backend / Data Science: ** Python (Pandas, NumPy, Scikit-Learn)
+* **Backend / Data Science:** Python (Pandas, NumPy, Scikit-Learn)
 
 ## Key Features
 * **Interactive Dashboard:** Input parameters to see real-time cost predictions.
