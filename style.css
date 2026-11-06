@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.work__card {
+    display: flex;
+    gap: 40px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    margin-top: 40px;
+}
+
+.work__text {
+    flex: 1;
+}
+
+.work__list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.work__list li {
+    background: #eee;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.work__image-box {
+    flex: 1;
+}
+
+.work__image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
