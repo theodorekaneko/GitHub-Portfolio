@@ -4,3 +4,4 @@ numpy
 scikit-learn
 kagglehub
 matplotlib
+lightgbm
